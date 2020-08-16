@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/passportdemo/precache-manifest.aef35dca824ccb9ae40a658e2d828172.js"
+  "/passportdemo/precache-manifest.5a8e657e497d73c18710e3a81c80287e.js"
 );
 
 self.addEventListener('message', (event) => {
