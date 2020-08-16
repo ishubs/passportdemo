@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/passportdemo/static/css/main.a612d558.chunk.css",
-    "main.js": "/passportdemo/static/js/main.1b0adf08.chunk.js",
-    "main.js.map": "/passportdemo/static/js/main.1b0adf08.chunk.js.map",
+    "main.js": "/passportdemo/static/js/main.bc1db1dc.chunk.js",
+    "main.js.map": "/passportdemo/static/js/main.bc1db1dc.chunk.js.map",
     "runtime-main.js": "/passportdemo/static/js/runtime-main.05c9b630.js",
     "runtime-main.js.map": "/passportdemo/static/js/runtime-main.05c9b630.js.map",
     "static/css/2.92bcdaea.chunk.css": "/passportdemo/static/css/2.92bcdaea.chunk.css",
     "static/js/2.ff859fee.chunk.js": "/passportdemo/static/js/2.ff859fee.chunk.js",
     "static/js/2.ff859fee.chunk.js.map": "/passportdemo/static/js/2.ff859fee.chunk.js.map",
     "index.html": "/passportdemo/index.html",
-    "precache-manifest.9f434c0461948173ac823fd1278fa0ac.js": "/passportdemo/precache-manifest.9f434c0461948173ac823fd1278fa0ac.js",
+    "precache-manifest.09b6dfe7ed327c593c5a3bc4e8d5c926.js": "/passportdemo/precache-manifest.09b6dfe7ed327c593c5a3bc4e8d5c926.js",
     "service-worker.js": "/passportdemo/service-worker.js",
     "static/css/2.92bcdaea.chunk.css.map": "/passportdemo/static/css/2.92bcdaea.chunk.css.map",
     "static/css/main.a612d558.chunk.css.map": "/passportdemo/static/css/main.a612d558.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.92bcdaea.chunk.css",
     "static/js/2.ff859fee.chunk.js",
     "static/css/main.a612d558.chunk.css",
-    "static/js/main.1b0adf08.chunk.js"
+    "static/js/main.bc1db1dc.chunk.js"
   ]
 }
