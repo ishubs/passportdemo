@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b115c4de2caab85a3cee938d282fe65c",
+    "revision": "3ba75eb3e086ab6015afc8f0853b8e36",
     "url": "/passportdemo/index.html"
   },
   {
-    "revision": "bc16da688974da817dd1",
+    "revision": "dc30ac8dc0a5aa39a300",
     "url": "/passportdemo/static/css/2.92bcdaea.chunk.css"
   },
   {
-    "revision": "a80bfeb918bdd0af26b3",
-    "url": "/passportdemo/static/css/main.a612d558.chunk.css"
+    "revision": "b51417f7f8a211de51d9",
+    "url": "/passportdemo/static/css/main.505035d0.chunk.css"
   },
   {
-    "revision": "bc16da688974da817dd1",
-    "url": "/passportdemo/static/js/2.ff859fee.chunk.js"
+    "revision": "dc30ac8dc0a5aa39a300",
+    "url": "/passportdemo/static/js/2.7048ad65.chunk.js"
   },
   {
-    "revision": "a80bfeb918bdd0af26b3",
-    "url": "/passportdemo/static/js/main.90a0fd2a.chunk.js"
+    "revision": "b51417f7f8a211de51d9",
+    "url": "/passportdemo/static/js/main.a9241c57.chunk.js"
   },
   {
     "revision": "dd63d7869e1f208c4124",
@@ -176,7 +176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/passportdemo/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "7f6de6cef4b59e7f16428c448fa1a7a1",
-    "url": "/passportdemo/static/media/logo.7f6de6ce.png"
+    "revision": "70ba68ae7ef51d1605f20725f9084c12",
+    "url": "/passportdemo/static/media/logo.70ba68ae.png"
   }
 ]);

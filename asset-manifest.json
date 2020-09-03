@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/passportdemo/static/css/main.a612d558.chunk.css",
-    "main.js": "/passportdemo/static/js/main.90a0fd2a.chunk.js",
-    "main.js.map": "/passportdemo/static/js/main.90a0fd2a.chunk.js.map",
+    "main.css": "/passportdemo/static/css/main.505035d0.chunk.css",
+    "main.js": "/passportdemo/static/js/main.a9241c57.chunk.js",
+    "main.js.map": "/passportdemo/static/js/main.a9241c57.chunk.js.map",
     "runtime-main.js": "/passportdemo/static/js/runtime-main.05c9b630.js",
     "runtime-main.js.map": "/passportdemo/static/js/runtime-main.05c9b630.js.map",
     "static/css/2.92bcdaea.chunk.css": "/passportdemo/static/css/2.92bcdaea.chunk.css",
-    "static/js/2.ff859fee.chunk.js": "/passportdemo/static/js/2.ff859fee.chunk.js",
-    "static/js/2.ff859fee.chunk.js.map": "/passportdemo/static/js/2.ff859fee.chunk.js.map",
+    "static/js/2.7048ad65.chunk.js": "/passportdemo/static/js/2.7048ad65.chunk.js",
+    "static/js/2.7048ad65.chunk.js.map": "/passportdemo/static/js/2.7048ad65.chunk.js.map",
     "index.html": "/passportdemo/index.html",
-    "precache-manifest.81b9604ffbe57f0415aa0f7fc7e1912f.js": "/passportdemo/precache-manifest.81b9604ffbe57f0415aa0f7fc7e1912f.js",
+    "precache-manifest.94c027b55ee5cff9140ebd0e0ae3a0d9.js": "/passportdemo/precache-manifest.94c027b55ee5cff9140ebd0e0ae3a0d9.js",
     "service-worker.js": "/passportdemo/service-worker.js",
     "static/css/2.92bcdaea.chunk.css.map": "/passportdemo/static/css/2.92bcdaea.chunk.css.map",
-    "static/css/main.a612d558.chunk.css.map": "/passportdemo/static/css/main.a612d558.chunk.css.map",
+    "static/css/main.505035d0.chunk.css.map": "/passportdemo/static/css/main.505035d0.chunk.css.map",
     "static/media/Maya-avatar.jpg": "/passportdemo/static/media/Maya-avatar.45e6b951.jpg",
     "static/media/mdb.css": "/passportdemo/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/passportdemo/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/logo.png": "/passportdemo/static/media/logo.7f6de6ce.png"
+    "static/media/logo.png": "/passportdemo/static/media/logo.70ba68ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.05c9b630.js",
     "static/css/2.92bcdaea.chunk.css",
-    "static/js/2.ff859fee.chunk.js",
-    "static/css/main.a612d558.chunk.css",
-    "static/js/main.90a0fd2a.chunk.js"
+    "static/js/2.7048ad65.chunk.js",
+    "static/css/main.505035d0.chunk.css",
+    "static/js/main.a9241c57.chunk.js"
   ]
 }
