@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aab4564470448d8bfa44d4a3dcedb411",
+    "revision": "740e30b2ce39e95577768b9c9182d96c",
     "url": "/passportdemo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/passportdemo/static/css/2.679b52f0.chunk.css"
   },
   {
-    "revision": "896e09c4c36dd99f662e",
+    "revision": "a98de68e6c169bb9f753",
     "url": "/passportdemo/static/css/main.505035d0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/passportdemo/static/js/2.f586d14f.chunk.js"
   },
   {
-    "revision": "896e09c4c36dd99f662e",
-    "url": "/passportdemo/static/js/main.eccab87e.chunk.js"
+    "revision": "a98de68e6c169bb9f753",
+    "url": "/passportdemo/static/js/main.134343cb.chunk.js"
   },
   {
     "revision": "dd63d7869e1f208c4124",
